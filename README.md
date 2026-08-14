@@ -112,4 +112,4 @@ This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-Gaurav Kale
+mayur gore
